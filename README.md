@@ -1,0 +1,1 @@
+# Emotion-Detection-with-Multi-label-Bidirectional-LSTM-and-Embedding
